@@ -1,6 +1,6 @@
 <h2 align="center">
   Personal VUEJS Portfolio<br/>
-  <a href="https://adorable-maamoul-a5740e.netlify.app/" target="_blank">  Personal VUEJS Portfolio App</a>
+  <a href="https://vuejsportfolioapp.netlify.app/" target="_blank">  Personal VUEJS Portfolio App</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="vuejsportfolio.jpeg" />
@@ -12,7 +12,7 @@
 
 ## Built With
 
-My VueJS Portfolio <a href="https://adorable-maamoul-a5740e.netlify.app/" target="_blank"> Mosh Digital</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My VueJS Portfolio <a href="[https://adorable-maamoul-a5740e.netlify.app/](https://vuejsportfolioapp.netlify.app/)" target="_blank"> Mosh Digital</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
